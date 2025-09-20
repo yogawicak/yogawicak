@@ -49,7 +49,7 @@ I'm a passionate **Software Engineer** and **Freelancer** with **5+ years of exp
         <sub><i>Most Used</i></sub>
     </div>
     <br/>
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,nodejs,webpack,react,nextjs,vue,nuxtjs,tailwind,vite,nestjs,express,py,django,go,postgresql,aws,rabbitmq,docker,postman&perline=6" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,nodejs,webpack,react,nextjs,vue,nuxtjs,tailwind,vite,nestjs,express,py,django,go,postgresql,aws,rabbitmq,docker,postman,supabase&perline=6" />
 </td>
 <td width="50%" valign="top">
     <div style="text-align: center;">
