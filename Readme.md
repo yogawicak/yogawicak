@@ -1,7 +1,7 @@
 # Hey there, I'm <a href="https://www.linkedin.com/in/yogawcksn/">Yoga Wicaksono</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 <img src="https://img.shields.io/badge/UTC%20+7-Jakarta-black?style=for-the-badge&logo=clock&logoColor=white" />
 
-I'm a passionate **Software Engineer** and **Freelancer** with **5+ years of experience** across full-stack development, DevOps, and system administration. I help startups and small businesses build production-ready applications from the ground up, covering Business Requirements, Frontend, Backend, Infrastructure, and Deployment.
+I'm a **Software Engineer** with **5+ years of experience** across full-stack development, DevOps, SysAdmin and Network Development. I help startups and small businesses build production-ready applications from the ground up, covering Business Requirements, Frontend, Backend, Infrastructure, and Deployment.
 
 - 🚀 **Ready to support development of your product** - I help startups and small businesses build production-ready applications from idea to launch
 - 🌱 **Exploring Next.js** and **continuing my learning journey** with **Nest.js** and **Nuxt.js**—always excited to dive into new frameworks!
