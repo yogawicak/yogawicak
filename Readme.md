@@ -13,7 +13,7 @@ I'm a **Software Engineer** with **5+ years of experience** across full-stack de
 
 <div align="center">
   <a href="mailto:yogawicaksono20@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://yogawicak.my.id" target="_blank"><img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://yogawicaksono.dev" target="_blank"><img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/yogawcksn/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.upwork.com/freelancers/yogawicaksono" target="_blank"><img src="https://img.shields.io/badge/Upwork-black?style=for-the-badge&logo=upwork&logoColor=white" /></a>
   <a href="https://x.com/yogawicak" target="_blank"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" /></a>
